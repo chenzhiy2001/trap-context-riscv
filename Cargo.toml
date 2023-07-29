@@ -1,5 +1,5 @@
 [package]
-name = "trap-context-riscv"
+name = "trap_context_riscv"
 version = "0.1.0"
 edition = "2021"
 authors = ["Zhiyang Chen <chenzhiy2001@qq.com>"]
